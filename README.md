@@ -14,7 +14,7 @@ allprojects {
 Step 2. Add the dependency
 ```gradle
 dependencies {
-    implementation 'com.github.mrgxxd:mrgxxd-input-validation-android:1.0.1'
+    implementation 'com.github.mrgxxd:mrgxxd-input-validation-android:1.0.2'
 }
 ```
 
